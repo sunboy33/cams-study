@@ -1,0 +1,5 @@
+bus 1 79 461 362
+person 252 159 332 350
+person 380 175 440 316
+person 470 202 500 270
+pottedplant 170 23 188 60

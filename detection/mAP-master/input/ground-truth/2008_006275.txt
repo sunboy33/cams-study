@@ -1,0 +1,5 @@
+person 104 62 226 375
+person 187 68 338 375
+person 312 60 412 375
+car 78 149 115 219
+pottedplant 411 177 481 225

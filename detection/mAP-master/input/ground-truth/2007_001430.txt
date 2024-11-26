@@ -1,0 +1,7 @@
+diningtable 1 269 250 374
+person 100 154 235 286
+person 211 146 303 352
+person 245 154 398 374
+pottedplant 56 174 100 220
+tvmonitor 316 1 418 66
+pottedplant 344 83 428 214

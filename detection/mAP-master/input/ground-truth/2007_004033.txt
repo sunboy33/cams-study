@@ -1,0 +1,4 @@
+person 70 7 120 138
+motorbike 120 36 217 168
+motorbike 183 2 326 196
+motorbike 189 1 447 280

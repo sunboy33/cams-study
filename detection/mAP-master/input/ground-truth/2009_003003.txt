@@ -1,0 +1,6 @@
+diningtable 1 226 375 500
+person 6 1 73 173
+person 282 1 353 96
+person 328 2 375 359
+car 13 20 356 255
+bottle 204 47 345 500

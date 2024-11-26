@@ -1,0 +1,4 @@
+tvmonitor 258 223 320 294
+tvmonitor 323 216 403 288
+person 185 181 271 375
+person 292 202 369 373

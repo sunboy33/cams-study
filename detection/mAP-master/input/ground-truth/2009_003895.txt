@@ -1,0 +1,7 @@
+tvmonitor 8 111 163 255
+tvmonitor 157 115 336 289
+tvmonitor 151 1 264 38
+sofa 364 36 500 149
+person 128 149 138 169
+person 119 151 134 171
+chair 1 63 115 131

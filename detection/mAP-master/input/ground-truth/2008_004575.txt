@@ -1,0 +1,3 @@
+person 1 96 125 441
+person 88 64 247 425
+diningtable 1 385 301 500

@@ -1,0 +1,5 @@
+sheep 253 162 350 242
+motorbike 98 147 306 334
+motorbike 322 141 496 343
+motorbike 45 111 115 273
+bus 1 1 212 90

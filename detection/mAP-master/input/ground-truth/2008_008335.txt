@@ -1,0 +1,2 @@
+person 6 62 377 474
+diningtable 1 381 377 500

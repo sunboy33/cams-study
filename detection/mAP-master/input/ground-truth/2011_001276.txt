@@ -1,0 +1,6 @@
+dog 99 213 280 411
+person 27 25 299 500
+person 1 24 55 147
+person 1 1 20 74
+diningtable 3 293 279 395
+chair 249 384 299 500

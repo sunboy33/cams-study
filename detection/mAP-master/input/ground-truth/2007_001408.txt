@@ -1,0 +1,6 @@
+bottle 114 245 178 448
+person 56 107 230 387
+bottle 20 68 50 167
+person 210 1 333 108
+person 84 87 333 366
+pottedplant 119 1 184 130

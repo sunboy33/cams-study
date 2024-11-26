@@ -1,0 +1,4 @@
+bicycle 142 89 433 389
+bottle 298 271 400 356
+person 268 1 500 411
+tvmonitor 1 50 144 283

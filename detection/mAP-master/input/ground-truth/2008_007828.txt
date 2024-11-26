@@ -1,0 +1,4 @@
+person 45 14 198 376
+tvmonitor 185 192 233 248
+tvmonitor 434 187 500 296
+chair 196 247 316 377

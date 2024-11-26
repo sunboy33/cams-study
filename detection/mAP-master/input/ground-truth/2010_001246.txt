@@ -1,0 +1,9 @@
+car 418 218 458 247
+bicycle 1 125 45 236
+bicycle 29 128 71 230
+pottedplant 182 165 250 229
+pottedplant 287 162 324 220
+person 153 163 168 203
+person 136 165 156 202
+pottedplant 405 204 417 226
+pottedplant 388 198 405 228

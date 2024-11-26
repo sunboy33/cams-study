@@ -1,0 +1,2 @@
+pottedplant 143 1 211 34
+sofa 43 16 465 375

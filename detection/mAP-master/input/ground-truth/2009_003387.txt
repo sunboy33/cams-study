@@ -1,0 +1,4 @@
+car 1 114 500 332
+car 2 96 94 188
+tvmonitor 114 54 164 91
+tvmonitor 37 57 90 91

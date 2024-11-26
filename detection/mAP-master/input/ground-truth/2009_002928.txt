@@ -1,0 +1,2 @@
+bicycle 45 85 441 350
+pottedplant 357 70 431 142

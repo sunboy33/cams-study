@@ -1,0 +1,4 @@
+car 213 6 271 59
+car 291 1 346 50
+pottedplant 1 183 375 500
+bicycle 1 107 35 139
